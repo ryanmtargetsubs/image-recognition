@@ -1,0 +1,29 @@
+# Binaries
+/server
+cmd/server/server
+
+# Uploads
+uploads/
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python leftover
+__pycache__/
+*.pyc
+.venv/
